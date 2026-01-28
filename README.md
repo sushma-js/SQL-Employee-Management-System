@@ -23,6 +23,12 @@ The project is designed for practicing SQL concepts using MySQL and Oracle SQL.
 - GROUP BY, HAVING
 - Subqueries
 
+- ## 📜 Certifications
+
+- HackerRank SQL (Basic) Certificate  
+- HackerRank SQL (Intermediate) Certificate
+
+
 ## 📁 Files in this Repository
 - mysql_schema.sql
 - oracle_schema.sql
