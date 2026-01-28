@@ -25,8 +25,8 @@ The project is designed for practicing SQL concepts using MySQL and Oracle SQL.
 
 - ## 📜 Certifications
 
-- HackerRank SQL (Basic) Certificate  
-- HackerRank SQL (Intermediate) Certificate
+- HackerRank SQL (Basic) Certificate: https://www.hackerrank.com/certificates/77c22a865dc1
+- HackerRank SQL (Intermediate) Certificate: https://www.hackerrank.com/certificates/a2541c3747f9
 
 
 ## 📁 Files in this Repository
